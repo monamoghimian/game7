@@ -1,2 +1,2 @@
 game area
-you can see [hear](https://monamoghimian.github.io/game7/)
+you can see [hear](https://monamoghimian.github.io/game7/index.html)
